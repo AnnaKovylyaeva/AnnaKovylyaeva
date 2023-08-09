@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 ---
  
 ### :fire: My Stats : 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annakovylyaeva&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnnaKovylyaeva&theme=prussian)](https://git.io/streak-stats)
