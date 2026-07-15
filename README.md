@@ -20,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;   
 <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original.svg" title="ClickHouse" alt="ClickHouse" width="40" height="40"/>&nbsp;   
----
+
+ ---
  
 ### :fire: My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnnaKovylyaeva&theme=prussian)](https://git.io/streak-stats)
