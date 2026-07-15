@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anna
-<!--- - 👀 I’m interested in Data Analytics 
+- I’m interested in Data Analytics & Data Engineering
+<!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
