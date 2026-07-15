@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anna
--  👀 I’m interested in Data Analytics & Data Engineering
+- 👋 Hi, I’m Anna — Senior DWH Analyst | Data Quality & Reliability Engineer
 <!---
+- 👀 I’m interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
