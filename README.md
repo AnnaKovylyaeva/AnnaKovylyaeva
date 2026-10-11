@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna — Senior DWH Analyst | Data Quality & Reliability Engineer
+- 👋 Hi, I’m Anna — DWH Analyst
 <!---
 - 👀 I’m interested in
 - 🌱 I’m currently learning ...
